@@ -12,17 +12,15 @@ Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pou
 
 ## Branches
 
-Les branches sont structurées de manière à correspondre aux vidéos du cours. La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo de ce chapitre. Certaines branches ont un état de départ et de fin.  
-La branche `02_03_d` correspond au code du début de la vidéo.  
-La branche `02_03_f` correspond au code à la fin de la vidéo.  
-La branche master correspond au code à la fin de la formation. 
+La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo 
+
 
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
+   - [Jupyter Notebook](https://jupyter.org/install)
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
+3. Ouvrez ensuite les notebooks grâce à Jupyter Notebook.
 
 
 ### Formatrice
@@ -32,9 +30,8 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/alison-patou
+[Les visualisations de données en Python]: (https://www.linkedin.com/learning/python-la-visualisation-des-donnees)
+[https://www.linkedin.com/learning/instructors/alison-patou](https://www.linkedin.com/learning/l-essentiel-de-python/)
 
 [1]: # (End of FR-Instruction ###############################################################################################)
 
