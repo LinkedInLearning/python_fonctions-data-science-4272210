@@ -29,9 +29,9 @@ La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nomm�
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-[Les visualisations de données en Python]: (https://www.linkedin.com/learning/python-la-visualisation-des-donnees)
-[L'essentiel de Python] : (https://www.linkedin.com/learning/l-essentiel-de-python/)
+
+Les visualisations de données en Python: (https://www.linkedin.com/learning/python-la-visualisation-des-donnees)
+L'essentiel de Python : (https://www.linkedin.com/learning/l-essentiel-de-python/)
 
 [1]: # (End of FR-Instruction ###############################################################################################)
 
