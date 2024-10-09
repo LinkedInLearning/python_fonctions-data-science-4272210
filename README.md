@@ -10,7 +10,7 @@ Cette formation s'adresse à celles et ceux qui possèdent déjà des bases en P
 
 Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse. 
 
-## Branches
+## Convention de nommage
 
 La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo 
 
@@ -27,7 +27,7 @@ La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nomm�
 
 **Alison Patou** 
 
- Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
+ Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/alison-patou).
 
 
 Les visualisations de données en Python: (https://www.linkedin.com/learning/python-la-visualisation-des-donnees)  
