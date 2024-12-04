@@ -1,6 +1,6 @@
 #  Python : Les fonctions pour la data science
 
-Ce dossier Repository est lié au cours `Python : Les fonctions pour la data science`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Python : Les fonctions pour la data science`. Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning/python-les-fonctions-pour-la-data-science).
 
 ![Nom final de la formation](https://media.licdn.com/dms/image/v2/D4D0DAQEVSntH9r22wQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733300656908?e=2147483647&v=beta&t=RKWrxbw12hSyKPLSZ4BP_J18qQypk5I91vcBxLgLnIU)
 
