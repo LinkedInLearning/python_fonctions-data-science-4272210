@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `Python : Les fonctions pour la data sci
 
 ![Nom final de la formation](https://media.licdn.com/dms/image/v2/D4D0DAQEVSntH9r22wQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733300656908?e=2147483647&v=beta&t=RKWrxbw12hSyKPLSZ4BP_J18qQypk5I91vcBxLgLnIU)
 
-Cette formation s'adresse à celles et ceux qui possèdent déjà des bases en Python et souhaitent approfondir leurs connaissances des fonctions clés pour la data science. Vous explorerez les fonctions de manipulation de données en Python, notamment les fonctions de base, les outils mathématiques de NumPy, ainsi que les fonctionnalités avancées de Pandas et Polars. La formation privilégie la mise en pratique avec des défis pour solidifier vos compétences. </br></br> Ce cours est intégré à GitHub Codespaces, un environnement de développement cloud offrant les fonctionnalités de votre IDE préféré sans devoir configurer une machine locale. Avec GitHub Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment.
+Cette formation s'adresse à celles et ceux qui possèdent déjà des bases en Python et souhaitent approfondir leurs connaissances des fonctions clés pour la data science. Vous explorerez les fonctions de manipulation de données en Python, notamment les fonctions de base, les outils mathématiques de NumPy, ainsi que les fonctionnalités avancées de Pandas et Polars. La formation privilégie la mise en pratique avec des défis pour solidifier vos compétences.
 
 ## Convention de nommage
 
